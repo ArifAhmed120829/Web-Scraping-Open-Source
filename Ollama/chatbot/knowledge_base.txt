@@ -1,0 +1,2 @@
+Python is a high-level programming language used for web development, data science, and automation.
+FAISS is a library for efficient similarity search.
